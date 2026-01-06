@@ -1,5 +1,3 @@
-Perfect 👍
-Below is a **well-structured, clean, and professional README.md format** that looks polished on GitHub and is widely used in **real-world + college projects**. You can **copy-paste this directly**.
 
 ---
 
@@ -86,10 +84,10 @@ The Learning Management System (LMS) is designed to simplify the online educatio
 
 ```bash
 # Clone the repository
-git clone https://github.com/shivani_gautam07/LMS.git
+git clone https://github.com/shivani-gautam07/LMS.git
 
 # Navigate to project folder
-cd lms-project
+cd LMS
 
 # Install backend dependencies
 npm install
@@ -138,19 +136,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### ⭐ Tip (for best GitHub look)
-
-* Add a **project banner image**
-* Use **badges** (Node, React, MongoDB)
-* Keep headings consistent
-* Avoid very long paragraphs
-
-If you want, I can:
-
-* Customize this for **college submission**
-* Make a **shorter version**
-* Add **badges + banner**
-* Write a **professional README header**
-
-Just tell me 😺
+## Author
+**Shivani Gautam**
+Github: https://github.com/shivani-gautam07
 
